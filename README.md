@@ -11,8 +11,8 @@ Sou um estudante em constante evolução, movido pela curiosidade e pelo aprendi
 
 # 🚀 Skills
 
-- HTML5, CSS3, SASS, Bootstrap
-- JavaScript, PHP
+- HTML5, CSS3, Bootstrap
+- JavaScript
 - MySQL
 - Aprendizado contínuo e adaptação a novos desafios
 
